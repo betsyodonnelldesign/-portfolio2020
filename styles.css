@@ -1,0 +1,271 @@
+
+
+hr {
+      color: #000;
+}
+
+
+body p{
+  line-height: 1.5em;
+  font-family: 'Didact Gothic', sans-serif !important;
+  color: #000;
+  font-weight: 300;
+  font-size: 18px !important;
+  }
+}
+
+ul h3 {
+  padding: 0px !important;
+  margin: 0px !important;
+  text-align: left !important;
+}
+
+
+ul li {
+  line-height: 2.0em !important;
+  font-family: 'Didact Gothic', sans-serif !important;
+  color: #000;
+  font-weight: 300;
+  font-size: 18px !important;
+  }
+
+  ol li {
+    line-height: 2.0em !important;
+    font-family: 'Didact Gothic', sans-serif !important;
+    color: #000;
+    font-weight: 300;
+    font-size: 18px !important;
+    }
+
+
+h1 {
+  margin: 10px 0px 5px 0px;
+  padding: 0px;
+  color: #211A1E !important;
+  font-family: 'Didact Gothic', sans-serif !important;
+  font-size: 44px !important;
+  font-weight: 600 !important;
+  line-height: 1.2em !important;
+}
+
+
+h2 {
+  margin: 0px;
+  padding: 0px;
+  color: #211A1E !important;
+  font-family: 'Didact Gothic', sans-serif !important;
+  font-size: 34px !important;
+  font-weight: 600 !important;
+  line-height: 39px !important;
+}
+
+h3 {
+  color: #211A1E !important;
+  font-family: 'Didact Gothic', sans-serif !important;
+  font-size: 24px !important;
+  font-weight: 300 !important;
+  line-height: 33px !important;
+  text-align: left;
+}
+
+
+h4 {
+  color: #211A1E;
+  ffont-family: 'Didact Gothic', sans-serif !important;
+  font-size: 20px !important;
+  font-weight: 300 !important;
+  line-height: 30px !important;
+  text-align: left;
+}
+
+h5 {
+  color: #211A1E;
+  font-family: 'Didact Gothic', sans-serif !important;
+  font-size: 19px !important;
+  font-weight: 300 !important;
+  line-height: 30px !important;
+  text-align: left;
+}
+
+p {
+  line-height: 1.7em;
+  font-family: 'Didact Gothic', sans-serif !important;
+  color: #211A1E;
+  font-weight: 300;
+  font-size: 18px !important;
+  margin: 0px !important;
+}
+
+p a{
+  color: #E9560C !important;
+  font-weight: 500;
+  line-height: 1.7em;
+  font-family: 'Didact Gothic', sans-serif !important;
+  font-size: 20px !important;
+}
+
+p a:hover {
+  text-decoration: none;
+  border-bottom-style: solid;
+  border-bottom-color: #E9560C;
+  border-bottom-width: 2px;
+}
+
+h2 a{
+  color: #211A1E !important;
+  font-weight: 600;
+    line-height: 39px !important;
+  font-family: 'Didact Gothic', sans-serif !important;
+}
+
+h2 a:hover{
+  text-decoration: none;
+  color: #4890AD !important;
+
+}
+
+
+.xsmall-padding-bottom {
+  padding-bottom: 10px;
+}
+
+.xsmall-padding-top {
+  padding-top: 10px;
+}
+
+.small-padding-top {
+  padding-top: 20px;
+}
+
+.smd-padding-top {
+  padding-top: 40px;
+}
+
+.med-padding-top {
+  padding-top: 60px;
+}
+
+.medlg-padding-top {
+  padding-top: 120px;
+}
+
+
+.large-padding-top {
+  padding-top: 160px;
+}
+
+.padding-bottom {
+  padding-bottom: 20px;
+}
+
+.color-background {
+  background-color: #ededed;
+  margin-top: 10px;
+  padding: 40px;
+}
+
+hr {
+  border-bottom: 1px dotted #000;
+  width: 980px;
+}
+
+hgroup {
+  padding-top: 40px;
+}
+
+
+.footer {
+  color: #000;
+}
+
+
+/* navbar*/
+
+
+.navbar-light {
+    background-color: none !important;
+    color: #fff !important;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  overflow: hidden;
+}
+
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  color: #fff;
+}
+
+
+/* Change the color of links on hover */
+
+.navbar-light .navbar-nav .nav-link {
+  color: #000 !important;
+}
+
+a.nav-link {
+  margin-left: 20px !important;
+  font-size: 16px !important;
+}
+
+a.nav-link:hover {
+  color: #08565C !important;
+}
+
+a#logo.nav-link{
+  width: 600px !important;
+  padding-left: 0px !important;
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+  font-size: 22px !important;
+  font-weight: 400 !important;
+  margin-left: 0px !important;
+  color: #211A1E !important;
+  font-family: 'Didact Gothic', sans-serif !important;
+}
+
+
+div.navbar-brand {
+  display: none;
+}
+
+div.container.padding-bottom.med-padding-top{
+  margin-left: 0px !important;
+}
+
+.nav-link #right {
+  float: right !important;
+  font-size: 15px;
+  padding-right: 15px !important;
+}
+
+button{
+  padding: 10px 23px 10px 23px;
+  background-color: #FEF2EC;
+  color: #E9560C;
+  border: none;
+  font-family: 'Didact Gothic', sans-serif !important;
+  font-size: 20px !important;
+  cursor: pointer;
+}
+
+button:hover{
+  padding: 10px 23px 10px 23px;
+  background-color: #E9560C;
+  color: #fff;
+  font-family: 'Didact Gothic', sans-serif !important;
+  font-size: 20px !important;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+h3.container.smd-padding-top {
+  margin-left: 0px !important;
+}
